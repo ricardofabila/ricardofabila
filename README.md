@@ -1,11 +1,11 @@
-🚀 Ricardo Fabila
+# 🚀 Ricardo Fabila
 
 Staff Software Engineer building scalable systems, developer tools, and AI-powered solutions.
 I specialize in backend systems (Go), modern web apps (React/TypeScript), and cloud-native infrastructure.
 
 I care about performance, clean architecture, and building products that are both technically solid and delightful to use.
 
-🧠 Core Technologies
+## 🧠 Core Technologies
 
 Languages
 Go, TypeScript, JavaScript, Python, Lua, Clojurescript, PHP
@@ -22,8 +22,9 @@ AWS, Digital Ocean, Linux, Docker≤ Kubernetes, CI/CD, GitHub Actions
 AI & Applied ML
 Genetic Algorithms, Recommendation Systems
 
-🔥 Featured Projects
-🦊 Fox — A Minimal Package Manager
+### 🔥 Featured Projects
+---
+#### 🦊 Fox — A Minimal Package Manager
 
 Go · CLI · Systems Programming
 
@@ -41,7 +42,7 @@ Open-source distribution model
 
 Built to explore systems design, distribution, and tooling automation.
 
-🦄 Hapi — Universal API CLI
+#### 🦄 Hapi — Universal API CLI
 
 Go · CLI · Developer Tooling
 
@@ -57,7 +58,7 @@ Focused on productivity and clean UX in the terminal
 
 Built to improve API developer experience.
 
-🍄 Super Mario Genetic Algorithm
+#### 🍄 Super Mario Genetic Algorithm
 
 Lua · AI · Evolutionary Algorithms
 
@@ -73,7 +74,7 @@ AI-driven gameplay simulation
 
 Experimental project exploring applied AI and evolutionary computation.
 
-✍️ Focus Writer
+#### ✍️ Focus Writer
 
 HTML · Minimal UX · Web App
 
@@ -89,7 +90,7 @@ Performance-focused frontend design
 
 Built around product thinking and user focus.
 
-📐 Simple Unit Converter
+#### 📐 Simple Unit Converter
 
 JavaScript · UI/UX
 
@@ -103,7 +104,7 @@ Fast client-side logic
 
 Focus on usability and clarity
 
-⛓ Don Caja — Handmade Blockchain
+#### 🗳️ Don Caja — Handmade Blockchain
 
 JavaScript · Web App · Distributed Concepts
 
@@ -119,7 +120,7 @@ Educational exploration of blockchain fundamentals
 
 Built to deeply understand distributed ledger principles.
 
-🛠 What I’m Currently Focused On
+##### 🛠 What I’m Currently Focused On
 
 Distributed systems architecture
 
@@ -129,7 +130,7 @@ AI-driven product features
 
 Building tools developers actually love
 
-📫 Connect With Me
+#### 📫 Connect With Me
 
 LinkedIn: https://linkedin.com/in/ricardofabila
 
