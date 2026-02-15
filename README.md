@@ -1,9 +1,45 @@
 # 🚀 Ricardo Fabila
 
-Staff Software Engineer building scalable systems, developer tools, and AI-powered solutions.
-I specialize in backend systems (Go), modern web apps (React/TypeScript), and cloud-native infrastructure.
+Staff Software Engineer | Distributed Systems | AI-Driven Platforms | Cloud Architecture
 
-I care about performance, clean architecture, and building products that are both technically solid and delightful to use.
+Full-Stack Staff Engineer with 8+ years delivering scalable, secure, high-performance systems across cybersecurity and SaaS. I specialize in distributed systems, event-driven architectures, DevOps automation, and applied AI.
+
+## 🏆 Engineering Highlights
+### ⚡ Performance & Scale
+
+Improved API performance by 10,000% by porting legacy services from Python to Go
+
+Increased asset discovery speed by 700% through microservices redesign
+
+Optimized PostgreSQL queries, boosting retrieval speeds by 200%+
+
+### ☁️ Cloud & Infrastructure
+
+Migrated infrastructure from Vercel to DigitalOcean, reducing cloud costs by 50%
+
+Eliminated tens of thousands in annual secret management costs via secure architecture redesign
+
+Designed and implemented CI/CD pipelines using GitHub Actions, Docker, and Kubernetes
+
+Built production-ready microservices with Go, Kafka, RabbitMQ, and AWS
+
+### 🤖 Applied AI & Intelligent Systems
+
+Built a recommendation system prototype using machine learning algorithms
+
+Implemented evolutionary AI (Genetic Algorithm) to autonomously beat Super Mario
+
+Designed intelligent matching systems improving user experience and engagement
+
+### 🛠 Developer Tooling & Automation
+
+Created internal CLI tools to improve engineering workflows
+
+Built an open-source package manager (Fox)
+
+Automated OpenAPI spec generation from source code
+
+Engineered custom commit hooks and build automation with Mage
 
 ## 🧠 Core Technologies
 
